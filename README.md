@@ -24,15 +24,13 @@ dotnet run
 
 3. Navigate to https://localhost:5001/api.
 
-4. To test running scripts locally go to `resources` folder and edit `template-settings.json` with custom configuration and local paths to the scripts that the api will run.
 
-Check section [deployment](#deployment) on how to setup the project in production.
 
 ### API Endpoints
 | HTTP Verbs | Endpoints | Action |
 | --- | --- | --- |
 | GET | /api/Home/Countries/all | To get list of supported countries |
-| GET | /api/Home/TaxRates/{id} | To get allowded tax rate in the specific country |
+| GET | /api/Home/TaxRates/{id} | To get allowded tax rate in the specific country,id refers to country |
 | GET | /api/Home/TaxBaseOnVat/{countryId}/{taxRate}/{vatValue} | To calculate net and gross amount base on valued-added amount and taxRate |
 | GET | /api/Home/TaxBaseOnNet/{countryId}/{taxRate}/{netValue} | To calculate valued-added tax and gross amount base on net amount and taxRate |
 | GET | /api/Home/TaxBaseOnGross/{countryId}/{taxRate}/{grossValue} | To calculate net and valued-added tax amount base ongross amount and taxRate |
