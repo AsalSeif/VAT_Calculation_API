@@ -1,0 +1,9 @@
+D:\VAT Calculator\VAT_Calculator\CommonExtension\bin\Debug\netstandard2.0\CommonExtension.deps.json
+D:\VAT Calculator\VAT_Calculator\CommonExtension\bin\Debug\netstandard2.0\CommonExtension.dll
+D:\VAT Calculator\VAT_Calculator\CommonExtension\bin\Debug\netstandard2.0\CommonExtension.pdb
+D:\VAT Calculator\VAT_Calculator\CommonExtension\obj\Debug\netstandard2.0\CommonExtension.AssemblyInfoInputs.cache
+D:\VAT Calculator\VAT_Calculator\CommonExtension\obj\Debug\netstandard2.0\CommonExtension.AssemblyInfo.cs
+D:\VAT Calculator\VAT_Calculator\CommonExtension\obj\Debug\netstandard2.0\CommonExtension.csproj.CoreCompileInputs.cache
+D:\VAT Calculator\VAT_Calculator\CommonExtension\obj\Debug\netstandard2.0\CommonExtension.dll
+D:\VAT Calculator\VAT_Calculator\CommonExtension\obj\Debug\netstandard2.0\CommonExtension.pdb
+D:\VAT Calculator\VAT_Calculator\CommonExtension\obj\Debug\netstandard2.0\CommonExtension.csprojAssemblyReference.cache
