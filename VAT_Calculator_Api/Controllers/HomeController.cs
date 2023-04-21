@@ -20,7 +20,7 @@ namespace VAT_Calculator.Controllers
             _TaxServiceFactory = taxServiceFactory;
         }
         [HttpGet]
-        public string Get() => ":(";
+        public string Get() => ":)";
         // GET: api/<VatCalculatorController>
         [HttpGet]
         [Route("Countries/all")]
