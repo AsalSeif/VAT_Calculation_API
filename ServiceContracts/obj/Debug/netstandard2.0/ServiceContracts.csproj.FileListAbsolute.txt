@@ -1,0 +1,9 @@
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\bin\Debug\netstandard2.0\ServiceContracts.deps.json
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\bin\Debug\netstandard2.0\ServiceContracts.dll
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\bin\Debug\netstandard2.0\ServiceContracts.pdb
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\obj\Debug\netstandard2.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\obj\Debug\netstandard2.0\ServiceContracts.AssemblyInfo.cs
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\obj\Debug\netstandard2.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\obj\Debug\netstandard2.0\ServiceContracts.dll
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\obj\Debug\netstandard2.0\ServiceContracts.pdb
+D:\VAT Calculator\VAT_Calculator\ServiceContracts\obj\Debug\netstandard2.0\ServiceContracts.csprojAssemblyReference.cache

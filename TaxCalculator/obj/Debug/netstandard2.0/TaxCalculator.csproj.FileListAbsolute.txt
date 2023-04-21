@@ -1,0 +1,14 @@
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\TaxCalculator.deps.json
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\TaxCalculator.dll
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\TaxCalculator.pdb
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.csprojAssemblyReference.cache
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.AssemblyInfoInputs.cache
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.AssemblyInfo.cs
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.dll
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.pdb
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\CommonException.dll
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\CommonException.pdb
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\obj\Debug\netstandard2.0\TaxCalculator.csproj.CopyComplete
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\ServiceContracts.dll
+D:\VAT Calculator\VAT_Calculator\TaxCalculator\bin\Debug\netstandard2.0\ServiceContracts.pdb
