@@ -17,12 +17,12 @@ download .NET core SDK 2.0 from [release archives](https://github.com/dotnet/cor
 
 2. Restore and run the web api
 ```shell
-cd VAT_CALC/VAT_Api
+cd VAT_Calculation_Api\VAT_Calculator_Api
 dotnet restore
 dotnet run
 ```
 
-3. Navigate to http://localhost:5000/api.
+3. Navigate to https://localhost:5001/api.
 
 4. To test running scripts locally go to `resources` folder and edit `template-settings.json` with custom configuration and local paths to the scripts that the api will run.
 
