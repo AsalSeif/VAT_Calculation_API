@@ -20,7 +20,7 @@ public abstract class BaseTaxCalculator
 		if (ValidateParameters(taxRate, vatValue))
 		{
 			var netValue = vatValue / ( taxRate / 100);
-			var grossValue = netValue - vatValue;
+			var grossValue = netValue + vatValue;
 			return new TaxCalculationValuesDto
 			{
 				Net = netValue,
