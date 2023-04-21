@@ -6,7 +6,7 @@ calculation base on VAT, Price without VAT and Price with VAT is possible.
 
 Clone the repository.
 ```shell
-git clone https://github.com/AsalSeif/VAT_Calculation_Api.git
+git clone https://github.com/AsalSeif/VAT_Calculation_API.git
 ```
 * Run npm install to install all dependencies
 ### Web API
@@ -17,7 +17,7 @@ download .NET core SDK 2.0 from [release archives](https://github.com/dotnet/cor
 
 2. Restore and run the web api
 ```shell
-cd VAT_Calculation_Api\VAT_Calculator_Api
+cd VAT_Calculation_API\VAT_Calculator_Api
 dotnet restore
 dotnet run
 ```
