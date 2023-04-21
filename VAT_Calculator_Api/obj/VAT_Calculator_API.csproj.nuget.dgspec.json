@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VAT Calculator\\VAT_Calculator\\VAT_Calculator_Api\\VAT_Calculator_API.csproj": {}
+    "D:\\VAT_Calculation_Api\\VAT_Calculator_Api\\VAT_Calculator_API.csproj": {}
   },
   "projects": {
-    "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\CommonException.csproj": {
+    "D:\\VAT_Calculation_Api\\CommonException\\CommonException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\CommonException.csproj",
+        "projectUniqueName": "D:\\VAT_Calculation_Api\\CommonException\\CommonException.csproj",
         "projectName": "CommonException",
-        "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\CommonException.csproj",
+        "projectPath": "D:\\VAT_Calculation_Api\\CommonException\\CommonException.csproj",
         "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-        "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\obj\\",
+        "outputPath": "D:\\VAT_Calculation_Api\\CommonException\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj": {
+    "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj",
+        "projectUniqueName": "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj",
         "projectName": "CommonExtension",
-        "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj",
+        "projectPath": "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj",
         "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-        "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\obj\\",
+        "outputPath": "D:\\VAT_Calculation_Api\\CommonExtension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj": {
+    "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-        "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\obj\\",
+        "outputPath": "D:\\VAT_Calculation_Api\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,14 +185,14 @@
         }
       }
     },
-    "D:\\VAT Calculator\\VAT_Calculator\\TaxCalculator\\TaxCalculator.csproj": {
+    "D:\\VAT_Calculation_Api\\TaxCalculator\\TaxCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\TaxCalculator\\TaxCalculator.csproj",
+        "projectUniqueName": "D:\\VAT_Calculation_Api\\TaxCalculator\\TaxCalculator.csproj",
         "projectName": "TaxCalculator",
-        "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\TaxCalculator\\TaxCalculator.csproj",
+        "projectPath": "D:\\VAT_Calculation_Api\\TaxCalculator\\TaxCalculator.csproj",
         "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-        "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\TaxCalculator\\obj\\",
+        "outputPath": "D:\\VAT_Calculation_Api\\TaxCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,11 +211,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\CommonException.csproj": {
-                "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\CommonException.csproj"
+              "D:\\VAT_Calculation_Api\\CommonException\\CommonException.csproj": {
+                "projectPath": "D:\\VAT_Calculation_Api\\CommonException\\CommonException.csproj"
               },
-              "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }
@@ -251,14 +251,14 @@
         }
       }
     },
-    "D:\\VAT Calculator\\VAT_Calculator\\VAT_Calculator_Api\\VAT_Calculator_API.csproj": {
+    "D:\\VAT_Calculation_Api\\VAT_Calculator_Api\\VAT_Calculator_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\VAT_Calculator_Api\\VAT_Calculator_API.csproj",
+        "projectUniqueName": "D:\\VAT_Calculation_Api\\VAT_Calculator_Api\\VAT_Calculator_API.csproj",
         "projectName": "VAT_Calculator_API",
-        "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\VAT_Calculator_Api\\VAT_Calculator_API.csproj",
+        "projectPath": "D:\\VAT_Calculation_Api\\VAT_Calculator_Api\\VAT_Calculator_API.csproj",
         "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-        "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\VAT_Calculator_Api\\obj\\",
+        "outputPath": "D:\\VAT_Calculation_Api\\VAT_Calculator_Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -277,14 +277,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj": {
-                "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj"
+              "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj": {
+                "projectPath": "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj"
               },
-              "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "D:\\VAT Calculator\\VAT_Calculator\\TaxCalculator\\TaxCalculator.csproj": {
-                "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\TaxCalculator\\TaxCalculator.csproj"
+              "D:\\VAT_Calculation_Api\\TaxCalculator\\TaxCalculator.csproj": {
+                "projectPath": "D:\\VAT_Calculation_Api\\TaxCalculator\\TaxCalculator.csproj"
               }
             }
           }

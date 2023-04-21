@@ -7,3 +7,12 @@ D:\VAT Calculator\VAT_Calculator\CommonException\obj\Debug\netstandard2.0\Common
 D:\VAT Calculator\VAT_Calculator\CommonException\obj\Debug\netstandard2.0\CommonException.dll
 D:\VAT Calculator\VAT_Calculator\CommonException\obj\Debug\netstandard2.0\CommonException.pdb
 D:\VAT Calculator\VAT_Calculator\CommonException\obj\Debug\netstandard2.0\CommonException.csprojAssemblyReference.cache
+D:\VAT_Calculation_Api\CommonException\bin\Debug\netstandard2.0\CommonException.deps.json
+D:\VAT_Calculation_Api\CommonException\bin\Debug\netstandard2.0\CommonException.dll
+D:\VAT_Calculation_Api\CommonException\bin\Debug\netstandard2.0\CommonException.pdb
+D:\VAT_Calculation_Api\CommonException\obj\Debug\netstandard2.0\CommonException.csprojAssemblyReference.cache
+D:\VAT_Calculation_Api\CommonException\obj\Debug\netstandard2.0\CommonException.AssemblyInfoInputs.cache
+D:\VAT_Calculation_Api\CommonException\obj\Debug\netstandard2.0\CommonException.AssemblyInfo.cs
+D:\VAT_Calculation_Api\CommonException\obj\Debug\netstandard2.0\CommonException.csproj.CoreCompileInputs.cache
+D:\VAT_Calculation_Api\CommonException\obj\Debug\netstandard2.0\CommonException.dll
+D:\VAT_Calculation_Api\CommonException\obj\Debug\netstandard2.0\CommonException.pdb

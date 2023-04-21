@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zp2S6Q19K8V+x9S8TA8/7xItFmEigrcyQSTRPrjhf9Gab83iC4xSEq9GDFhXbTed5kdJqENNxbwMO/sNuL5BIQ==",
+  "dgSpecHash": "+n6UKxR0s0UEzDMB0GmXoEFgZPHuwXo56PU8MM0C3oyGd3I5Hjqzj+kkK5/mYQLZaneFVF44pTkHvRWL3rU7Ww==",
   "success": true,
-  "projectFilePath": "D:\\VAT Calculator\\VAT_Calculator\\CommonException\\CommonException.csproj",
+  "projectFilePath": "D:\\VAT_Calculation_Api\\CommonException\\CommonException.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ruqia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ruqia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

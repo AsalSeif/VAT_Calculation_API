@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj": {}
+    "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj": {}
   },
   "projects": {
-    "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj": {
+    "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-        "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\obj\\",
+        "outputPath": "D:\\VAT_Calculation_Api\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",

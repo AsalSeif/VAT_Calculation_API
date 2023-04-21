@@ -70,3 +70,39 @@ D:\VAT Calculator\VAT_Calculator\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calcula
 D:\VAT Calculator\VAT_Calculator\VAT_Calculator_Api\obj\Debug\net5.0\ref\VAT_Calculator_API.dll
 D:\VAT Calculator\VAT_Calculator\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.pdb
 D:\VAT Calculator\VAT_Calculator\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.genruntimeconfig.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\appsettings.Development.json
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\appsettings.json
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\VAT_Calculator_API.exe
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\VAT_Calculator_API.deps.json
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\VAT_Calculator_API.runtimeconfig.json
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\VAT_Calculator_API.runtimeconfig.dev.json
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\VAT_Calculator_API.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\ref\VAT_Calculator_API.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\VAT_Calculator_API.pdb
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\System.Web.Http.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\CommonException.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\CommonExtension.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\ServiceContracts.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\TaxCalculator.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\CommonExtension.pdb
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\ServiceContracts.pdb
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\TaxCalculator.pdb
+D:\VAT_Calculation_Api\VAT_Calculator_Api\bin\Debug\net5.0\CommonException.pdb
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.csprojAssemblyReference.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.AssemblyInfoInputs.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.AssemblyInfo.cs
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.csproj.CoreCompileInputs.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.MvcApplicationPartsAssemblyInfo.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\staticwebassets\VAT_Calculator_API.StaticWebAssets.Manifest.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\staticwebassets\VAT_Calculator_API.StaticWebAssets.xml
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\scopedcss\bundle\VAT_Calculator_API.styles.css
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.RazorTargetAssemblyInfo.cache
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.csproj.CopyComplete
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\ref\VAT_Calculator_API.dll
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.pdb
+D:\VAT_Calculation_Api\VAT_Calculator_Api\obj\Debug\net5.0\VAT_Calculator_API.genruntimeconfig.cache

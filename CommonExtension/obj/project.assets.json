@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj",
+      "projectUniqueName": "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj",
       "projectName": "CommonExtension",
-      "projectPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\CommonExtension.csproj",
+      "projectPath": "D:\\VAT_Calculation_Api\\CommonExtension\\CommonExtension.csproj",
       "packagesPath": "C:\\Users\\Ruqia\\.nuget\\packages\\",
-      "outputPath": "D:\\VAT Calculator\\VAT_Calculator\\CommonExtension\\obj\\",
+      "outputPath": "D:\\VAT_Calculation_Api\\CommonExtension\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruqia\\AppData\\Roaming\\NuGet\\NuGet.Config",

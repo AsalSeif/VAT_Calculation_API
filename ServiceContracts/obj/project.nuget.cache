@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cv7ahyio7qpIqT7jSLxKe7SCF+W7jzAIIjMy61koDpop3uEybtRPxjJq7yGdV40IAZxjDU4x/GhwQ1eJE1CLDw==",
+  "dgSpecHash": "twU30fxXzGgh6RRvOqVhDbQ/2FeUPB6oFpJak9qwZ8tt5u7+ot45HNhwI9RQtarL9t9y1lkYFXoMp05sInftsg==",
   "success": true,
-  "projectFilePath": "D:\\VAT Calculator\\VAT_Calculator\\ServiceContracts\\ServiceContracts.csproj",
+  "projectFilePath": "D:\\VAT_Calculation_Api\\ServiceContracts\\ServiceContracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ruqia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ruqia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
